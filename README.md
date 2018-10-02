@@ -10,6 +10,6 @@
 # OneDark-style
 A OneDark-style Pycharm color scheme.
 # Install
-- clone the file
+- Clone the file
 - Open Pycharm
 - File->Import Settings->Choose OneDark-style.jar
