@@ -1,4 +1,4 @@
-# pycharm_settings_jar
+# OneDark-style
 一个OneDark风格的Pycharm配色方案.
 # 安装
 - 下载文件
@@ -7,7 +7,7 @@
 - File->Import Settings->Choose OneDark-style.jar
 
 
-# pycharm_settings_jar
+# OneDark-style
 A OneDark-style Pycharm color scheme.
 # Install
 - clone the file
