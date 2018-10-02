@@ -6,7 +6,7 @@
 - 文件->导入设置->选择OneDark-style
 - File->Import Settings->Choose OneDark-style.jar
 
-
+![图片](./snapshot.png)
 # OneDark-style
 A OneDark-style Pycharm color scheme.
 # Install
