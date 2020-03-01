@@ -12,3 +12,14 @@ A OneDark-style Pycharm color scheme.
 - Clone the file
 - Open Pycharm
 - File->Import Settings->Choose OneDark-style.zip
+
+
+-----------------------------
+
+现在jetbrains有更好的插件/主题了，个人偏向使用 AtomOneDarkByMayke
+
+2020/1/3 更新
+
+Now jetbrains support some awesome OneDark-like themes, I prefer to AtomOneDarkByMayke.
+
+2020/1/3 Updated.
